@@ -40,6 +40,13 @@ Database:
 - Mysql
 - Oracle (30% learn)
 
+Other Tools:
+
+- Adobe XD
+- Adobe AI
+- VS Code
+- Android Studio 
+
 Skills: DJANGO/NODE/NEXTJS / REACT / JS / HTML / CSS/SQL/NON-SQL
 
 - 🔭 I’m currently working on this page. 
