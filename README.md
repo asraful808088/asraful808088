@@ -12,7 +12,7 @@ Programming Language && Framework Experience:
 - Java/Android (intermediate)
 - Dart/Flutter (intermediate) 
 - Python/Django
-- go-lang(running)
+- Go-Lang(running)
 
 Web Frontend Markup & Framework Experience:
 - Next.js
