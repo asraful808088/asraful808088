@@ -32,7 +32,8 @@ Web Frontend Markup & Framework Experience:
 
 Web Backend Framework Experience:
 - Django
-- Crow (30% learn)
+- Fastapi
+- Laravel
 - Node
 
 Android Application Framework Experience:
@@ -43,7 +44,7 @@ Database:
 - Psql
 - Mongodb
 - Mysql
-- Oracle (30% learn)
+
 
 Other Tools:
 
@@ -54,10 +55,6 @@ Other Tools:
 
 Skills: DJANGO/NODE/NEXTJS / REACT / JS / HTML / CSS/SQL/NON-SQL
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning javascript/python/java 
-- 👯 I’m looking to collaborate on githhub 
-- 💬 Ask me about Full Stack Developer 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asraful808088)  
