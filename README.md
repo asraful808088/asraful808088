@@ -16,7 +16,10 @@ Programming Language && Framework Experience:
 
 Web Frontend Markup & Framework Experience:
 - Next.js
+- Nuxt.js
 - React.js
+- Anguler
+- Vue
 - Jquery
 - Html5
 - Css3
