@@ -1,8 +1,5 @@
-<h1 align="center">Hi, I'm Asraful Islam 👋</h1>
-<h3 align="center">Full-Stack Web Developer from Bangladesh 🇧🇩 — building smart, modern apps</h3>
-
 <p align="center">
-  <img src="https://res.cloudinary.com/none909099/image/upload/v1674362743/profile_ms9ptf.png" width="150" height="150" style="border-radius:50%;" alt="Asraful Islam"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e11d48,100:0A66C2&height=220&section=header&text=Asraful%20Islam&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20from%20Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9%20%E2%80%94%20building%20smart,%20modern%20apps&descAlignY=58&descSize=18" width="100%"/>
 </p>
 
 <p align="center">
@@ -130,5 +127,7 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 <p align="center">
   <img src="https://gpvc.arturio.dev/asraful808088" alt="Profile views" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:e11d48&height=100&section=footer" width="100%"/>
 
 <p align="center"><i>Thanks for stopping by — always open to a chat about a project, a bug, or the next stack I should learn.</i></p>
