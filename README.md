@@ -27,13 +27,10 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 
 ### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" bgcolor="#161b22" style="border-radius:12px;padding:16px;">
-
 **Languages**
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C%23](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -41,15 +38,7 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-</td>
-</tr>
-</table>
-
 <br/>
-
-<table>
-<tr>
-<td valign="top" bgcolor="#161b22" style="border-radius:12px;padding:16px;">
 
 **Frontend**
 
@@ -66,15 +55,7 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 <br/>
-
-<table>
-<tr>
-<td valign="top" bgcolor="#161b22" style="border-radius:12px;padding:16px;">
 
 **Backend**
 
@@ -85,30 +66,14 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 <br/>
-
-<table>
-<tr>
-<td valign="top" bgcolor="#161b22" style="border-radius:12px;padding:16px;">
 
 **Mobile**
 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 <br/>
-
-<table>
-<tr>
-<td valign="top" bgcolor="#161b22" style="border-radius:12px;padding:16px;">
 
 **Databases**
 
@@ -119,15 +84,7 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 <br/>
-
-<table>
-<tr>
-<td valign="top" bgcolor="#161b22" style="border-radius:12px;padding:16px;">
 
 **AI & Machine Learning**
 
@@ -139,15 +96,7 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat&logo=anthropic&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama_(local)-000000?style=flat&logo=ollama&logoColor=white)
 
-</td>
-</tr>
-</table>
-
 <br/>
-
-<table>
-<tr>
-<td valign="top" bgcolor="#161b22" style="border-radius:12px;padding:16px;">
 
 **Tools**
 
@@ -156,10 +105,6 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
 
 ---
 
