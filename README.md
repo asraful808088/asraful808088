@@ -1,76 +1,134 @@
-### Hi there 👋, My name is Asraful  Islam
-#### Web Application Developer
-![Web Application Developer](https://res.cloudinary.com/none909099/image/upload/v1674362743/profile_ms9ptf.png)
+<h1 align="center">Hi, I'm Asraful Islam 👋</h1>
+<h3 align="center">Full-Stack Web Developer from Bangladesh 🇧🇩 — building smart, modern apps</h3>
 
-Hello myself Asraful.  I am  web frontend and backend developer.
- While designing a website, I follow some core principles such as
-  understanding the website's purpose, simplicity in a creative way, mobile-friendly design for better user experience. 
-Besides doing web design as my profession,I develope my programming skils for web-site and modile 
-<br />
-Programming Language && Framework Experience:
-- C++/C (intermediate)
-- Java/Android (intermediate)
-- Dart/Flutter (intermediate) 
-- Python/Django
-- Go-Lang(running)
+<p align="center">
+  <img src="https://res.cloudinary.com/none909099/image/upload/v1674362743/profile_ms9ptf.png" width="150" height="150" style="border-radius:50%;" alt="Asraful Islam"/>
+</p>
 
-Web Frontend Markup & Framework Experience:
-- Next.js
-- Nuxt.js
-- React.js
-- Anguler
-- Vue
-- Jquery
-- Html5
-- Css3
-- JS
-- Bootstrap 5
-- Sass
-- Tailwind
-- Typescript
+<p align="center">
+  <a href="https://hilarious-melba8c3e59.netlify.app"><img src="https://img.shields.io/badge/Portfolio-e11d48?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/md-asraful-399a86250/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/asraful808088"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/mdasraful00000000"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
 
+---
 
-Web Backend Framework Experience:
-- Django
-- Fastapi
-- Laravel
-- Node
+### 🙋‍♂️ About Me
 
-Android Application Framework Experience:
-- Android (Java Lang)
-- Flutter (Dart Lang)
+I'm a self-taught full-stack developer who started with a blank text editor and pure curiosity, and grew into someone comfortable across the whole stack — frontend, backend, mobile, and now AI.
 
-Database:
-- Psql
-- Mongodb
-- Mysql
+When I design a website, I care about three things: understanding what the site is actually for, keeping the design simple without making it boring, and making sure it works just as well on a phone as it does on a desktop.
 
+Outside of client-style work, I spend a lot of time sharpening my own skills — new frameworks, new languages, and lately, figuring out how to bring AI into everyday web apps in ways that actually help people instead of just being a gimmick.
 
-Other Tools:
+- 🔭 Currently building smarter, AI-powered features into full-stack apps
+- 🌱 Currently exploring Go and deepening my AI/ML skills
+- ⚡ Fun fact: I adapt to a new stack faster than I finish my coffee
 
-- Adobe XD
-- Adobe AI
-- VS Code
-- Android Studio 
+---
 
-Skills: DJANGO/NODE/NEXTJS / REACT / JS / HTML / CSS/SQL/NON-SQL
+### 🛠️ Tech Stack
 
+**Languages**
 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/asraful808088)  
+**Frontend**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=asraful808088)](https://github.com/ryo-ma/github-profile-trophy)
+**Backend**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asraful808088)](https://github.com/anuraghazra/github-readme-stats)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=asraful808088&show_icons=true&count_private=true)  
+**Mobile**
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=asraful808088)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
-![GitHub metrics](https://metrics.lecoq.io/asraful808088)  
+**Databases**
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=asraful808088)  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
-![Profile views](https://gpvc.arturio.dev/asraful808088)  
+**AI & Machine Learning**
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama_(local)-000000?style=flat-square&logo=ollama&logoColor=white)
+
+**Tools**
+
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat-square&logo=adobexd&logoColor=white)
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=asraful808088&show_icons=true&count_private=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asraful808088&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=asraful808088&theme=radical" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asraful808088&theme=radical&column=7&margin-w=10" alt="trophy" />
+</p>
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=asraful808088&theme=react-dark" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/asraful808088"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="35"></a>
+  &nbsp;&nbsp;
+  <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="35" height="35"></a>
+  &nbsp;&nbsp;
+  <a href="https://docs.github.com/en/developers"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif" width="35" height="35"></a>
+</p>
+
+<p align="center">
+  <img src="https://gpvc.arturio.dev/asraful808088" alt="Profile views" />
+</p>
+
+<p align="center"><i>Thanks for stopping by — always open to a chat about a project, a bug, or the next stack I should learn.</i></p>
