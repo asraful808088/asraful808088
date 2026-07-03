@@ -28,7 +28,6 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 ### 🛠️ Tech Stack
 
 **Languages**
-
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C%23](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -39,7 +38,6 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 **Frontend**
-
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
@@ -54,7 +52,6 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 
 **Backend**
-
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
@@ -63,12 +60,10 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 **Mobile**
-
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
 
 **Databases**
-
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
@@ -77,7 +72,6 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
 **AI & Machine Learning**
-
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
@@ -87,7 +81,6 @@ Outside of client-style work, I spend a lot of time sharpening my own skills —
 ![Ollama](https://img.shields.io/badge/-Ollama_(local)-000000?style=flat&logo=ollama&logoColor=white)
 
 **Tools**
-
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF61F6?style=flat&logo=adobexd&logoColor=white)
